@@ -1,8 +1,7 @@
 # 네이버 뉴스 카테고리 분류
 ![화면 캡처 2021-06-25 173855](https://user-images.githubusercontent.com/67940953/123396443-47429780-d5dc-11eb-873b-144db1a7d05c.png)
 ## 프로젝트 개요
-네이버 뉴스의 6개 카테고리를 beattifulsoup을 사용해 크롤링한 후 tensorflow로 카테고리 예측
-<br>
+네이버 뉴스의 6개 카테고리를 selenium으로 크롤링, konlpy의 Okt로 자연어 처리 후 tensorflow를 사용한 모델로 카테고리 예측
 
 ## 사용 언어
 - python: 3.7.10
