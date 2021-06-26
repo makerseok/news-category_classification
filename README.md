@@ -5,13 +5,12 @@
 <br>
 
 ## 사용 언어
-- python 3.7.10
+- python: 3.7.10
 
 ## 개발 환경 및 사용 모듈
 - numpy: 1.20.2
 - pandas: 1.2.4
-- requests: 2.25.1
-- beautifulsoup
+- selenium: 3.141.0
 - konlpy: 0.5.2
 - scikit-learn: 0.24.2
 - tenforflow: 2.3.0
